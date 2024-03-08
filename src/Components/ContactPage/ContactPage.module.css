@@ -1,0 +1,8 @@
+.main_contact {
+    /* border: 1px solid red; */
+    display: flex;
+
+    background-image: url('../../assets/HomeOtherImages/4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;   
+}

@@ -1,0 +1,87 @@
+.bmiform {
+    width: 40%;
+    margin-left: 30px;
+    margin-right: 50px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.headingdata{
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    text-decoration: underline;
+    color: rgb(3, 7, 3);
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+
+.field{
+    width: 50%;
+    margin-left: 32%;
+    margin-right: 10%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.name{
+    width: 70%;
+    font-size: 1.5rem;
+    color: rgb(3, 7, 3);
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.inp{
+    font-size:1.5rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.3rem;
+    width:70%;
+    border-radius: 0.3rem;
+    padding-top:0.4rem ;
+    padding-bottom: 0.4rem;
+    padding-left: 1rem;
+}
+
+.bmi {
+    background-color: #40B554;
+    color: white;
+    padding: 0.8rem;
+    font-size: 1.7rem;
+    margin-left: 39%;
+    margin-right: 44%;
+    width: 25%;
+    margin-top: 1.3rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    border: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.bmi:hover {
+    background-color: #308b45; /* darker shade for hover */
+}
+
+.bmi:active {
+    background-color: #207635; /* even darker shade for active state */
+}
+
+.bmi:focus {
+    outline: none; /* remove default focus outline */
+    box-shadow: 0 0 0 3px rgba(64, 181, 84, 0.5); /* add custom focus border */
+}
+
+.resultheading {
+    text-align: center;
+    color: #010803;
+    text-decoration: underline;
+}
+
+.result {
+    text-align: center;
+    color: rgb(253, 251, 251);
+    font-size: 30px;
+    font-weight: bold;
+}

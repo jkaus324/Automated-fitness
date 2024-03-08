@@ -1,0 +1,153 @@
+/* first part  */
+.fimgcont {
+    background-image: url('../../assets//HomeOtherImages/1.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ff{
+    padding-top: 200px;
+    padding-left: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+}
+.fs{
+    padding-left: 150px;
+    color: rgb(248, 248, 252);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+}
+.ft {
+    padding-left: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+    color: white;
+    padding-top: 45px;
+    width: 50%;
+}
+.ffc{
+    display: flex;
+}
+.ffd{
+    padding-left: 7.8%;
+    padding-top: 100px;
+    font-size: 25px;
+    padding-bottom: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.ffd:hover{
+    color: red;
+}
+
+/* second part  */
+.featues {
+    background-image: url('../../assets/HomeOtherImages/istockphoto-1213615970-612x612.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 4%;
+    padding-top: 2%;
+}
+.upperfeatures {
+    display: flex;
+}
+.featureleft {
+    width: 25%;
+    padding-left: 5%;
+    padding-top: 3%;
+    text-align: center;
+} 
+.featuredesc{
+    color: red;
+    font-size: 23px;
+}
+.featuredesc:hover{
+    color: white;
+}
+.middleheading{
+    text-align: center;
+    padding-top: 9%;
+    padding-bottom: 5%;
+    font-size: 40px;    
+}
+.featureheading {
+    font-size: 45px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+}
+.featureheading:hover{
+    color: white;
+    text-decoration: underline;
+}
+.lowerfeatures{
+    display: flex;
+}
+.featureright {
+    width: 25%;
+    padding-left: 40%;
+    padding-top: 3%;
+    text-align: center;
+}
+.featurebutton {
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-radius: 13px;
+    background-color: rgb(9, 226, 9);    
+    font-size: 25px;
+    color: white;
+    border: none;
+}
+.featurebutton:hover{
+    color: black;
+    background-color: green;
+    border-radius: 19px;
+}
+
+/* third part  */
+.simgcont{
+    background-image: url('../../assets/HomeOtherImages/everything-you-need-know-about-fitness-1440x810.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.sf, .ss, .st {
+    font-size: 30px;
+    width: 70%;
+    padding-left: 20%;
+    color: white;
+}
+.sf:hover, .ss:hover, .st:hover {
+    font-size: 36px;
+    color: rgb(3, 58, 3);
+    width: 70%;
+    padding-left: 20%;
+}
+
+/* forth part  */
+.timgcont {
+    background-image: url('../../assets/HomeOtherImages/IM.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.fd{
+    font-size: 30px;
+    width: 70%;
+    padding-left: 20%;
+    color: white;
+}
+.fd:hover{
+    font-size: 36px;
+    color: rgb(230, 189, 189);
+    width: 70%;
+    padding-left: 20%;
+}
+
+html {
+    scroll-behavior: smooth;
+}

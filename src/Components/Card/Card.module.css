@@ -1,0 +1,55 @@
+.card {
+    margin: 20px;
+    border: 1px solid red;
+    background-color: rgb(217, 236, 227);
+    border-radius: 20px;
+    width: 22%;
+    height: 100%;
+}
+
+.innercard {
+    margin: 20px;
+    border: 1px solid red;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    padding-bottom: 20px;
+}
+
+.image {
+    margin-top: 20px;
+    margin-left: 12px;
+    height: 300px;
+    width: 350px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.cardheading {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.carditems {
+    text-align: center;
+    margin-left: 12px;
+    font-size: 24px;
+    margin-right: 12px;
+    margin-top: 20px;
+    color: chocolate;
+}
+
+.readmore {
+    margin-left: 270px;
+    height: 60px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.readmore:hover{
+    color: rgb(90, 4, 4);
+    text-decoration: underline;
+}

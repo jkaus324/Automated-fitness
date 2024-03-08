@@ -1,0 +1,86 @@
+.navbar{
+  border: 1px solid red;
+  display: flex;
+  padding: 20px;
+}
+.link, .headinglink{
+  text-decoration: none;
+}
+.companyname{
+  padding-left: 5%;
+  font-size: 50px;
+  font-weight: 700;
+  padding-right: 5%;
+}
+.companyname:hover{
+  color: rgb(27, 245, 19);
+  text-decoration: none;
+  font-size: 55px;
+}
+.restnavbar{
+  display: flex;
+  width: 50%;
+}
+.link{
+  width: 20%;
+  padding-left: 6%;
+  padding-top: 12px;
+  font-weight: 700;
+  font-size: 30px;
+  color: rgb(112, 119, 7);
+}
+.link:hover{
+  color: red;
+  text-decoration: underline;
+  font-size: 32px;
+  border-radius: 20px;
+}
+
+/* buttons */
+.logout{
+  display: flex;
+}
+.profilebuttonoption { 
+  margin-left: 30px;
+  border-radius: 20px;
+  background-color: rgb(97, 233, 97);
+}
+.profilebuttonoption:hover{
+  background-color: rgb(171, 212, 248);
+}
+.profileicon{
+  color: black;
+}
+.profileicon:hover{
+  color: white;
+}
+.profileheading{
+  color: white;
+  font-size: 29px;  
+}
+.profileheading:hover{
+  color: black;
+  text-decoration: none;
+}
+.link:hover{
+  text-decoration: none;
+}
+.buttonoption{
+  margin-left: 30px;
+  height: 60px;
+  background-color: rgb(97, 233, 97);
+  margin-top: 7px;
+  font-size: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 20px;
+  color: white;
+  font-weight: 700;
+}
+.buttonoption:hover{
+  color: black;
+  background-color: rgb(94, 245, 119);
+}
+.login{
+
+}

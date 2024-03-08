@@ -1,0 +1,7 @@
+.bmicontent {
+    display: flex;
+    background-image: url('../../assets/HomeOtherImages/10.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50px;
+}

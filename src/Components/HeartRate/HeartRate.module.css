@@ -1,0 +1,47 @@
+.main_heartrate {
+    /* margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 30px; */
+    padding-left: 20px;
+    padding-bottom: 90px;
+    display: flex;
+    background-image: url('../../assets/HomeOtherImages/pair-dumbbells-wooden-floor-gym-great-fitness-workout-exercise-concepts_685067-6011\ \(1\).avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hrfirst {
+    margin-left: 20px;
+    margin-top: 50px;   
+    width: 50%;
+    margin-right: 20px;
+}
+
+.hrsecond {
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-right: 80px;
+}
+
+.hrlineimage {
+    width: 500px;
+    height: 150px;
+    margin-left: 170px;
+}
+
+.hrimage, .hrline {
+    margin-bottom: 80px;
+}
+
+.imagedesc {
+    margin-left: 29px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.hrfirst p{
+    color: black;
+}
+.hrsecond p{
+    color: rgb(5, 11, 29);
+}

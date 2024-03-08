@@ -1,0 +1,125 @@
+.main_contactform {
+    margin: 30px;
+    width: 50%;
+    /* border: 1px solid red; */
+}
+
+.contactform {
+    margin: 20px;
+    margin-top: 20px;
+    /* border: 1px solid red; */
+}
+
+.formheading {
+    margin-left: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(7, 60, 139);
+}
+
+.formsubheading {
+    margin-left: 40px;
+    font-size: 20px;
+    margin-top: -15px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #9427dd;    
+}
+
+.heading{
+    align-items: left;
+}
+
+.field{
+    width: 100%;
+    margin-left: 40px;
+    /* margin-right: 4%; */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.name{
+    width: 70%;
+    font-size: 1.5rem;
+    color: green;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.inp{
+    font-size:1.5rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.3rem;
+    width:70%;
+    height: 25px;
+    border-radius: 0.3rem;
+    padding-top:0.4rem ;
+    padding-bottom: 0.4rem;
+    padding-left: 1rem;
+}
+
+.input {
+    
+    font-size:1.5rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.3rem;
+    width:70%;
+    height: 200px;
+    border-radius: 0.3rem;
+    padding-top:0.4rem ;
+    padding-bottom: 0.4rem;
+    padding-left: 1rem;
+}
+.signIn {
+    background-color: #40B554;
+    color: white;
+    padding: 0.8rem;
+    font-size: 1.7rem;
+    margin-left: 40px;
+    width: 200px;
+    margin-right: 44%;
+    margin-top: 0.6rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    border: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.signIn:hover {
+    background-color: #308b45; /* darker shade for hover */
+}
+
+.signIn:active {
+    background-color: #207635; /* even darker shade for active state */
+}
+
+.signIn:focus {
+    outline: none; /* remove default focus outline */
+    box-shadow: 0 0 0 3px rgba(64, 181, 84, 0.5); /* add custom focus border */
+}
+
+.anotheroption {
+    margin-left: 40%;
+    width: 60%;
+}
+.content {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(8, 25, 119);
+}
+
+.login {
+    width: 13%;
+    color: white;
+    background-color: #40B554;
+    font-size: 1.7rem;
+    border: none;
+    border-radius: 1rem;
+    margin: 5px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+ 
+    
+}
