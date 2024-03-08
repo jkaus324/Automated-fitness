@@ -8,9 +8,8 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-// const mongoUrl = 'mongodb+srv://pridhis22:pridhis22@cluster0.xlwfgc3.mongodb.net/?retryWrites=true&w=majority';
-const mongoUrl =
-  "mongodb+srv://jkaushal324:12345@cluster0.66q3cyz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const mongoUrl = 'mongodb+srv://pridhis22:pridhis22@cluster0.xlwfgc3.mongodb.net/?retryWrites=true&w=majority';
+
 
 mongoose
   .connect(mongoUrl,{dbName:"autofitness"})
